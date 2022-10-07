@@ -1,7 +1,7 @@
 
-# Modul 2 Tugas 2 Pemrograman Lanjut
+# Module 2 Task 1 - Pemrograman Lanjut
 
-PROGRAM CORRECTNESS II
+PROGRAM CORRECTNESS II | A simple application using the JAVA programming language to register students and check whether the data is valid.
 
 
 ## Screenshots
